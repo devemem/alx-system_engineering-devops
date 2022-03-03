@@ -1,1 +1,1 @@
-File 4-empty is an empty script that creates a file called hello.
+File 5-execute creates a script that adds execute permission to the owner of the file hello
