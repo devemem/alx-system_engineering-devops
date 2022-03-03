@@ -1,1 +1,1 @@
-File 101-symbolic_link_permissions creates a script that changes the owner and the group owner of the file _hello to vincent and staff respectively
+File 103-Star_Wars creates a script that will play the StarWars IV episode in the terminal.
