@@ -1,1 +1,1 @@
-File 5-firstlines creates a script that displays the first 20 lines of /etc/passwd
+File 6-third_line creats a script that displays the third line of the file iacta.
