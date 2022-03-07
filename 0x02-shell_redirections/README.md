@@ -1,1 +1,1 @@
-File 6-third_line creats a script that displays the third line of the file iacta.
+File 7-file creates a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
