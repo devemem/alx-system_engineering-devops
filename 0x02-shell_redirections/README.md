@@ -1,1 +1,1 @@
-File 3-twofiles creates a srcript that display the content of /etc/passwd and /etc/hosts
+File 4-lastlines creates a script that display the last 10 lines of /etc/passwd
