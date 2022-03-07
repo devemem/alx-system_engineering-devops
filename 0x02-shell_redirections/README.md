@@ -1,1 +1,1 @@
-File 2-hellofile creates a script that displays the content of the /etc/passwd file.
+File 3-twofiles creates a srcript that display the content of /etc/passwd and /etc/hosts
