@@ -1,1 +1,1 @@
-File 101-gifs is a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+File 102-acrostic is a script that decodes acrostics that use the first letter of each line.
