@@ -1,1 +1,1 @@
-File 9-duplicate_last_line is a script that duplicates the last line of the file iacta.
+File 7-file is a script that creates a file name exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
