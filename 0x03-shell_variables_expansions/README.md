@@ -1,1 +1,1 @@
-File 9-divide_and_rule is a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+File 10-love_exponent_breath is a script that displays the result of BREATH to the power LOVE.
